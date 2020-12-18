@@ -1,4 +1,4 @@
-# Ergodic-Exploration-using-Tensor-Train
+# Ergodic Exploration using Tensor Train (E2T2)
 This repository is a python implementation of ergodic control using tensor train format corresponding to the paper: 
 - "Ergodic Exploration using Tensor Train: Applications in Insertion Tasks" by Suhan Shetty, ‪João Silvério and Sylvain Calinon
 
