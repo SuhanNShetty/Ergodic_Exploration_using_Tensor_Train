@@ -4,4 +4,4 @@ This repository is a python implementation of ergodic control using tensor train
 
 Website: https://sites.google.com/view/ergodic-exploration/
 
-Use the notebook Ergodic_Control_using_TT.ipynb. You can use google-colab to run this notebook (copy the url of this github repo in https://colab.research.google.com/notebooks).
+Use the notebook Ergodic_Exploration_using_TT.ipynb. You can use google-colab to run this notebook (copy the url of this github repo in https://colab.research.google.com/notebooks).
