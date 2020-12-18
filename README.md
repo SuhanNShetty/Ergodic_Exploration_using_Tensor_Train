@@ -1,6 +1,6 @@
 # Ergodic-Control-using-Tensor-Train
 This repository is a python implementation of ergodic control using tensor train format corresponding to the paper: 
-- "Ergodic Exploration using Tensor Train: Applications in Insertion Tasks" by Suhan Shetty, ‪João Silvério, and Sylvain Calinon
+- "Ergodic Exploration using Tensor Train: Applications in Insertion Tasks" by Suhan Shetty, ‪João Silvério and Sylvain Calinon
 
 Website: https://sites.google.com/view/ergodic-exploration/
 
